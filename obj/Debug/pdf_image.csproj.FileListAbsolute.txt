@@ -1,0 +1,16 @@
+D:\project\pdf_image\bin\Debug\pdf_image.exe.config
+D:\project\pdf_image\bin\Debug\pdf_image.exe
+D:\project\pdf_image\bin\Debug\pdf_image.pdb
+D:\project\pdf_image\bin\Debug\PdfiumViewer.dll
+D:\project\pdf_image\bin\Debug\PdfiumViewer.xml
+D:\project\pdf_image\bin\Debug\nl\PdfiumViewer.resources.dll
+D:\project\pdf_image\obj\Debug\pdf_image.csproj.AssemblyReference.cache
+D:\project\pdf_image\obj\Debug\pdf_image.csproj.SuggestedBindingRedirects.cache
+D:\project\pdf_image\obj\Debug\pdf_image.Form1.resources
+D:\project\pdf_image\obj\Debug\pdf_image.Properties.Resources.resources
+D:\project\pdf_image\obj\Debug\pdf_image.csproj.GenerateResource.cache
+D:\project\pdf_image\obj\Debug\pdf_image.csproj.CoreCompileInputs.cache
+D:\project\pdf_image\obj\Debug\pdf_image.csproj.CopyComplete
+D:\project\pdf_image\obj\Debug\pdf_image.exe
+D:\project\pdf_image\obj\Debug\pdf_image.pdb
+D:\project\pdf_image\bin\Debug\x86\pdfium.dll
